@@ -3,3 +3,6 @@
 View our Pitch Deck here! 
 
 https://docs.google.com/presentation/d/1Bfa9AsEJEPm-UkvgvO65BJfpM80wQcYuz-hDLD1TZ4A/edit?usp=sharing
+
+Organized by HackMIT
+https://blueprint.hackmit.org/
